@@ -9,3 +9,5 @@ si lo quieres tener para todos los usuarios debes copiarlo en /usr/share/geany/c
 root# cp cobalt.conf /usr/share/geany/colorschemes
 
 cualquier duda puedes enviarme un e-mail a la dirección: cesarb.matematicas@gmail.com
+
+nota: Tema personalizado basado en theme cobalt, con intención de que parezca al Theme cobalto de pluma
